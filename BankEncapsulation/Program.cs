@@ -1,10 +1,20 @@
-﻿namespace BankEncapsulation
+﻿using System;
+
+namespace BankEncapsulation
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var edwardsaccount = new  bankAccount();
+            
+            Console.WriteLine("How much would you like to deposit?");
+            
+            var amountToDeposit = double.Parse(Console.ReadLine());
+            
+            edwardsaccount.Deposit(amountToDeposit);
+            
+            Console.WriteLine($"Thank you! Your balance is {edwardsaccount.GetBalance()}");
         }
     }
 }

@@ -1,0 +1,15 @@
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfo.cs
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.deps.json
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.runtimeconfig.json
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.dll
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.pdb
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.dll
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/refint/BankEncapsulation.dll
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.pdb
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.genruntimeconfig.cache
+/Users/inkyourshoes/repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/ref/BankEncapsulation.dll
